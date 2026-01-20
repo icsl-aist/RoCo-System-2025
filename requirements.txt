@@ -1,0 +1,11 @@
+openai>=1.0.0
+paramiko
+kachaka_api
+time
+math
+sys
+json
+shlex
+os
+re
+traceback
