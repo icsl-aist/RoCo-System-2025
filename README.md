@@ -21,6 +21,7 @@ Akari（司令塔ロボット）とKachaka（自律移動ロボット）が、�
 
 ```text
 .
+├── main_measure.py             # 計測用のメインファイル
 ├── main.py                     # システムのエントリーポイント（メインループ）
 ├── function_list_akari.py      # Akari制御用（SSH経由で外部プロセス呼び出し）
 ├── function_list_kachaka.py    # Kachaka制御用（ハードウェアAPIラッパー）
