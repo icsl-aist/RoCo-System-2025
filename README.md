@@ -48,6 +48,7 @@ pip install -r requirements.txt
 - **Kachaka**: APIが有効化されており、ネットワーク経由で制御可能であること。
 - **Akari (または外部PC)**: SSH接続が可能で、以下のパスにYOLO推論環境および音声合成環境が構築されていること。
   - リモートパス: `/home/aitclab2011/test/akari_yolo_inference2(2025.10.2)/final_project` など
+  - 障害物検知などの該当ファイルが入っているAkariを使用すること("1"と書かれたシールが貼ってあるAkari)
 
 
 
